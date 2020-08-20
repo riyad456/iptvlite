@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Custom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",My Custom channel
+#EXTINF:-1 group-title="Custom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 ,Gazi tv
-http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 ,D sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 ,NatGeo Wild
+#EXTINF:-1 group-title="Custom" tvg-logo="https://en.wikipedia.org/wiki/National_Geographic_Wild_(European_TV_channel)#/media/File:National_Geographic_Wild_logo.svg",Nat GEO
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 group-title="Custom" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e5a3623302383.5632207f99dba.jpg",Bangla Vision
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-1 group-title="Custom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Boishakhi_TV_logo.svg",Boishaki Tv.
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
